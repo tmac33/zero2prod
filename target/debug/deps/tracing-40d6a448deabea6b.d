@@ -1,0 +1,13 @@
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/tracing-40d6a448deabea6b.rmeta: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs
+
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/tracing-40d6a448deabea6b.d: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs
+
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs:

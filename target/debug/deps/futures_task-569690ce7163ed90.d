@@ -1,0 +1,11 @@
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/futures_task-569690ce7163ed90.rmeta: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs
+
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/futures_task-569690ce7163ed90.d: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs
+
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs:

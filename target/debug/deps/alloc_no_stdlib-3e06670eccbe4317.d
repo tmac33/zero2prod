@@ -1,0 +1,10 @@
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/alloc_no_stdlib-3e06670eccbe4317.rmeta: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/alloc_no_stdlib-3e06670eccbe4317.d: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs:
