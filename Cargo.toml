@@ -19,16 +19,5 @@ reqwest = "0.11"
 actix-web = "4"
 tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
 serde = { version = "1", features = ["derive"] }
+sqlx = { version = "0.5.7", default-features = false, features = [ "runtime-actix-rustls", "macros", "postgres", "uuid", "chrono", "migrate"] }
 config = "0.13.1"
-
-[dependencise.sqlx]
-version = "0.5.7"
-default-features = false
-features = [
-    "runtime-actix-results",
-    "macros",
-    "postgres",
-    "uuid",
-    "chrono",
-    "migrate",
-]
