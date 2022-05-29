@@ -1,0 +1,15 @@
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/serde-b5aada68643e3637.rmeta: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/cosmo/RustProject/zero2prod/target/debug/deps/serde-b5aada68643e3637.d: /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs:
+/Users/cosmo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs:
